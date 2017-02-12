@@ -17,7 +17,7 @@ https://github.com/ykyk1218/unified_hyphen
   window.onload = function() {
     var t = document.getElementById("sample").textContent;
     t = t.unify_ja_hyphen()
-    alert(t);  //Hello World
+    alert(t);  //Hello-World
   }
 </script>
 </head>
